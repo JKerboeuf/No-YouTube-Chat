@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name			No YT Chat
+// @name			No YouTube Chat
 // @description		Removes live chat from Youtube lives and videos
 // @description:fr	Supprime le chat des videos et lives YouTube
 // @author			PsychoPatate
