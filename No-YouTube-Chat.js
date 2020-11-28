@@ -12,6 +12,8 @@
 // @downloadURL		https://raw.githubusercontent.com/PsychoPatate/No-YT-Chat/main/No-YT-Chat.js
 // @supportURL		https://github.com/PsychoPatate/No-YT-Chat/issues
 // @require			https://code.jquery.com/jquery-3.5.1.min.js
+// @run-at 			document-end
+// @noframes
 // @match			https://www.youtube.com/watch*
 // ==/UserScript==
 
