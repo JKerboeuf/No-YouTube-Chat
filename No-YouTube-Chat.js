@@ -10,8 +10,8 @@
 // @source			https://github.com/PsychoPatate/No-YouTube-Chat
 // @iconURL			https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/icon128.png
 // @icon64URL		https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/icon64.png
-// @updateURL		https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/No-YT-Chat.js
-// @downloadURL		https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/No-YT-Chat.js
+// @updateURL		https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/No-YouTube-Chat.js
+// @downloadURL		https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/No-YouTube-Chat.js
 // @supportURL		https://github.com/PsychoPatate/No-YouTube-Chat/issues
 // @require			https://code.jquery.com/jquery-3.5.1.min.js
 // @run-at 			document-end
