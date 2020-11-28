@@ -1,4 +1,4 @@
-# No-YouTube-Chat
+# No YouTube Chat
 Simple userscript to remove live chat from Youtube lives and videos.
 
 ---
