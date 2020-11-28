@@ -6,7 +6,7 @@
 // @author			PsychoPatate
 // @license			GNU General Public License v3.0
 // @namespace		https://github.com/PsychoPatate
-// @version			1.1
+// @version			1.2
 // @source			https://github.com/PsychoPatate/No-YouTube-Chat
 // @iconURL			https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/icon128.png
 // @icon64URL		https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/icon64.png
