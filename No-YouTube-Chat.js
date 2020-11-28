@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name			No YouTube Chat
+// @name:fr			No YouTube Chat
 // @description		Removes live chat from Youtube lives and videos
 // @description:fr	Supprime le chat des videos et lives YouTube
 // @author			PsychoPatate
 // @namespace		https://github.com/PsychoPatate
-// @version			1.0
+// @version			1.1
 // @source			https://github.com/PsychoPatate/No-YouTube-Chat
 // @iconURL			https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/icon128.png
 // @icon64URL		https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/icon64.png
