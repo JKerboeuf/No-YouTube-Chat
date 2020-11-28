@@ -4,6 +4,7 @@
 // @description		Removes live chat from Youtube lives and videos
 // @description:fr	Supprime le chat des videos et lives YouTube
 // @author			PsychoPatate
+// @license			GNU General Public License v3.0
 // @namespace		https://github.com/PsychoPatate
 // @version			1.1
 // @source			https://github.com/PsychoPatate/No-YouTube-Chat
