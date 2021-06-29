@@ -16,19 +16,31 @@
 // @require			https://code.jquery.com/jquery-3.5.1.min.js
 // @run-at 			document-end
 // @noframes
+// @grant			window.onurlchange
 // @match			https://www.youtube.com/watch*
 // ==/UserScript==
 
 (function() {
 	'use strict';
 
-	var tries = 0;
-	var checkExist = setInterval(function() {
-		if (tries++ > 3)
-			clearInterval(checkExist);
-		if ($('#chat').length) {
-			$('#chat').remove();
-			clearInterval(checkExist);
-		}
-	}, 500);
+	function checkChat() {
+		var tries = 0;
+		var checkExist = setInterval(function() {
+			console.log("checking for chat");
+			if (tries++ > 3)
+				clearInterval(checkExist);
+			if ($('#chat').length) {
+				$('#chat').remove();
+				clearInterval(checkExist);
+			}
+		}, 500);
+	}
+
+	if (window.onurlchange === null){
+		window.addEventListener('urlchange', function(){
+			checkChat();
+		})
+	}
+
+	checkChat()
 })();
