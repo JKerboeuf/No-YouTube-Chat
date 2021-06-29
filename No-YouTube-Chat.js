@@ -6,7 +6,7 @@
 // @author			PsychoPatate
 // @license			GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @namespace		https://github.com/PsychoPatate
-// @version			1.3
+// @version			1.4
 // @source			https://github.com/PsychoPatate/No-YouTube-Chat
 // @iconURL			https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/icon128.png
 // @icon64URL		https://raw.githubusercontent.com/PsychoPatate/No-YouTube-Chat/main/icon64.png
